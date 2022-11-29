@@ -21,7 +21,7 @@ app.use(cors())
 app.use(bodyParser.json())
 
 app.get('/', (req, res) => {
-  res.send(`<h2 align="center" style="margin-top: 100px;">SUNTECH DEMO API</h2>`)
+  res.send(`<h2 align="center" style="margin-top: 100px;">API</h2>`)
 })
 
 app.post('/api/login', (req, res) => {

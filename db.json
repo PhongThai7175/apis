@@ -1,36 +1,66 @@
 {
   "products": [
     {
-      "name": "Test product 3 (test edit)",
-      "price": "5000000",
-      "description": "product 3",
-      "id": "xWbk1Ck9-ba7uQZZiFxpL"
+      "name": "SamSung",
+      "price": "50000",
+      "description": "Hết hàng",
+      "id": "4KUwGoh9R78WPNVAJFI5y"
     },
     {
-      "name": "5645645",
-      "price": "645645",
-      "description": "65466546",
-      "id": "rovKMQRGxpAUUQet_dE7W"
+      "name": "Nokia 18000",
+      "price": "5000000000",
+      "description": "Siêu bền",
+      "id": "BMS1i45tcikGHDNSqSea7"
     },
     {
-      "name": "ádasd",
-      "price": "234234",
-      "description": "sdsadas",
-      "id": "7A3folJnaRJJzsaHWAZ81"
+      "name": "Xào mì",
+      "price": "50000000",
+      "description": "Chưa có hàng",
+      "id": "2kIsWp_Jj02a5mh40v4xt"
     },
     {
-      "name": "Iphone 12",
-      "price": "25000000",
-      "description": "Thông tin chi tiết sản phẩm Iphone 12",
-      "id": "oPSzE11HGgfcH0LJ4aSfd"
+      "name": "Hauwei",
+      "price": "20000000",
+      "description": "Có hàng",
+      "id": "E0RoL2may0nJhTcj0HdE2"
+    },
+    {
+      "name": "Bphone2",
+      "price": "20000000",
+      "description": "Có hàng",
+      "id": "RqQiNI7OTHPadbE6b_U_2"
+    },
+    {
+      "name": "Aphone",
+      "price": "50000000",
+      "description": "Hết Hàg",
+      "id": "4LkBs0OfDsz4RQHJterws"
     }
   ],
   "users": [
     {
-      "id": "5YsFNN42B14VYHhpDyizn",
-      "name": "Administrator",
-      "email": "admin@gmail.com",
-      "password": 123456
+      "name": "Huy",
+      "phone": "0123456789",
+      "position": "Ke Toan",
+      "id": "iqCKoDFMT9mzH8KrlAlPu"
+    },
+    {
+      "name": "Hùng",
+      "phone": "12351240",
+      "position": "Bảo Vệ",
+      "id": "jJDmdrse3TYtLHajmKvC8"
+    },
+    {
+      "name": "Phong3",
+      "phone": "123324325",
+      "position": "Kiểm kho",
+      "id": "_mXNxdaMN6PgGwkjZrBGh"
+    },
+    {
+      "name": "Bảo",
+      "phone": "12558",
+      "position": "Thực tập",
+      "id": "LISiLZa5hhFysS9P_ZB0h"
     }
   ]
 }
